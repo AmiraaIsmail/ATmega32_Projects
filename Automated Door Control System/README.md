@@ -1,5 +1,5 @@
-#Password-activated-door
-
+**#Password-activated-door
+**
 This project allows you to open the door of your home by entering your password.
 
 ##Components used in this project:
